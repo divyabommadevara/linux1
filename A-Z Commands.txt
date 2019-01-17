@@ -1,5 +1,5 @@
 A-Z linux commands
-
+i
 
 Letter A - Alias
 Letter B - 
@@ -26,4 +26,4 @@ Letter V - vi/vim
 Letter W - wget Filename
 Letter X - 
 Letter Y - 
-Letter Z - Zip file.zip file1 file2
+Letter Z - Zip dfdftg5g7hyfile.zip file1 file2
